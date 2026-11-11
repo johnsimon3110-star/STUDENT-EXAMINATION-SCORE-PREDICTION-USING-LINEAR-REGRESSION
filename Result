@@ -1,1 +1,44 @@
+MODEL EVALUATION RESULTS
+------------------------
+The final evaluation results were:
 
+Evaluation Metric
+
+Model A 
+Model B
+
+R-squared (R²)
+
+0.5890
+
+0.7696
+
+MAE
+
+1.4690
+
+0.4524
+
+MSE
+
+5.8091
+
+3.2560
+
+RMSE
+
+2.4102
+
+1.8044
+
+6.3 Interpretation of Results
+
+Model A achieved an R² of 0.5890, meaning that it explained approximately 58.9% of the variation in examination scores on the test dataset.
+
+Model B achieved an R² of 0.7696, explaining approximately 77.0% of the variation.
+
+The MAE results showed that Model A had an average absolute prediction error of approximately 1.47 examination-score points, while Model B had an average absolute prediction error of approximately 0.45 points.
+
+Model B also achieved lower MSE and RMSE values.
+
+These results indicate that Model B provided better predictions than Model A on the held-out testing dataset.
