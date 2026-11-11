@@ -1,1 +1,10 @@
+Dataset
+This folder is intended to contain the dataset used for the Student Performance Prediction using Linear Regression project.
+Dataset information:
+- Total records: 6,607
+- Independent variables: 19
+- Target variable: Exam Score
 
+The dataset is used to train and evaluate the two Linear Regression models.
+
+The original dataset is kept separate from the analysis code to support project organization and reproducibility.
